@@ -96,8 +96,8 @@ nav ul li a {
 }
 
 .product-item img {
-    width: 90%;
-    height: 60%;
+    width: 80%;
+    height: 50%;
     border-radius: 10px;
     cursor: pointer;
 }
