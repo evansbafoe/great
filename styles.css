@@ -180,7 +180,7 @@ footer {
 }
 
 .modal-content {
-    background-color: white;
+    background-color: red;
     margin: 15% auto;
     padding: 20px;
     border: 1px solid #888;
@@ -190,8 +190,8 @@ footer {
 }
 
 .modal-content img {
-    width: 100px;
-    height: auto;
+    width: 180px;
+    height: 180px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
