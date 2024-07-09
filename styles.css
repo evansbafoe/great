@@ -13,11 +13,11 @@ body {
 }
 
 .logo img {
-    height: 85px;
+    height: 60px;
 }
 
 .logo p {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
     margin: 0;
 }
@@ -37,8 +37,8 @@ nav ul li a {
 }
 
 .icons img {
-    height: 30px;
-    margin-left: 20px;
+    height: 20px;
+    margin-left: 15px;
 }
 
 .count-badge {
@@ -70,7 +70,7 @@ nav ul li a {
 }
 
 .hero-text h1 {
-    font-size: 50px;
+    font-size: 30px;
     margin: 0;
     text-shadow: 2px 2px 4px #000;
 }
@@ -96,8 +96,8 @@ nav ul li a {
 }
 
 .product-item img {
-    width: 100%;
-    height: auto;
+    width: 50%;
+    height: 50%;
     border-radius: 10px;
     cursor: pointer;
 }
